@@ -1,0 +1,37 @@
+body {
+    background-size: cover;
+    background-image: url(https://img.freepik.com/free-vector/beautiful-watercolor-background_23-2148486848.jpg?w=1060&t=st=1689692454~exp=1689693054~hmac=42d0b35bb8ad12e4464d48c8a329c4d1c9894eb8ef77ff32bdce4d8b0d5db39c);
+}
+h4{
+    color: red;
+}
+#test1 { 
+    background-color: blue;
+}
+.test2 {
+    background-color: blueviolet;
+}
+h3 {
+    background-color: aquamarine;
+}
+.test3 {
+    background-color: rgb(155, 143, 166);
+}
+.test4, p3 {
+    background-color: rgb(153, 255, 0);
+}
+p1 {
+    background-color: yellow;
+}
+ul li {
+    background-color: green;
+}
+p {
+    color: blue;
+}
+#test1 {
+color: blueviolet;
+}
+.test2 {
+    color: rgb(255, 0, 144);
+}
