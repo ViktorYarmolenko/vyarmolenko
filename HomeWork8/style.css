@@ -7,7 +7,7 @@
 }
 
 /* box cont1 */
- .box-container {
+ .boxcontainer {
     width: 1000px;
     background-color: #E6E6E6;
     margin: 50px 50px;
@@ -76,17 +76,11 @@
  .small-boxes > div {
     display: inline-block;
     }
-    
- .clear {
-    clear: both;
-    }
-
-    
-    
+     
+ 
     
     /* box cont3 */
   
-
   .box5,
   .box6 {
     width: 200px;
@@ -95,16 +89,26 @@
     float: left;
     margin-right: 15px;
   }
-  
-  .box7,
+
+  .small-boxes2 > div {
+    display: inline-block;
+  }
+
+  .small-boxes2 {
+    float: right;
+  }
+
+  .box7 {
+    width: 200px;
+    height: 200px;
+    background-color: #FC8F8F;
+    margin-right: 11px;
+  }
+
   .box8 {
     width: 200px;
     height: 200px;
     background-color: #FC8F8F;
-    float: left;
-    margin-right: 15px;
   }
+
   
-  .clear {
-    clear: both;
-   }
