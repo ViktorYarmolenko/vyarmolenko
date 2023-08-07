@@ -1,4 +1,4 @@
-/* Стили для .header */
+/* СТИЛИ ДЛЯ .header */
 .header {
     background-color: #EEEFF1;
 }
@@ -68,7 +68,7 @@
     letter-spacing: 1.4px;
 }
 
-/* Стили для .section-about */
+/* СТИЛИ ДЛЯ .section-about */
 .section-about {
     background-color: #F9F9F9;
 }
@@ -98,7 +98,7 @@
     line-height: 164.063%;
 }
 
-/* Стили для .section-project */
+/* СТИЛИ .section-project */
 .section-project {
     background: var(--accent, #34547A);
 }
@@ -145,7 +145,7 @@
     margin-right: 59px;
 }
 
-/* Стили для section-work */
+/* СТИЛИ ДЛЯ section-work */
 .section-work {
     background-color: var(--silver, #EEEFF1);
 }
@@ -174,7 +174,7 @@
     margin-bottom: 77px;
 }
 
-/* Стили для footer */
+/* СТИЛИ ДЛЯ footer */
 footer {
     background-color: #34547A;
 }
